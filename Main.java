@@ -1,0 +1,10 @@
+package praticas.java.dashboard;
+
+public class Main {
+    public static void main(String[] args) {
+     new Screen();
+
+
+    }
+
+}
